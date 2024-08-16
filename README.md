@@ -15,4 +15,4 @@ To get started with GameHub, follow these steps:
 5.  Run  `npm run dev`  to start the web server.
 
 
-## The page should like like this https://game-rnaswwbt0-toufiqfarhans-projects.vercel.app/
+## The page should like like this https://toufiqfarhan-gamehub.netlify.app/
